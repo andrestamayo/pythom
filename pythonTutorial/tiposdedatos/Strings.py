@@ -12,3 +12,5 @@ print(str1[9]);
 
 if 'h' in str1:
     print(str1);
+#muestra la subcadena de str1 que va entr la tercera letra y la octaba inclusibe
+print(str1[2:8]);
